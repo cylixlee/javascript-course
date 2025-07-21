@@ -1,2 +1,3 @@
-# javascript-course
+# JavaScript Course
+
 Worktree repo for learning JavaScript.
