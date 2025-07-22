@@ -3,11 +3,6 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Worktree repo for learning JavaScript.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
   "author": "Cylix Lee",
   "license": "Apache-2.0",
   "packageManager": "pnpm@10.13.1",
