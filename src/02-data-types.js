@@ -11,7 +11,7 @@
 console.assert(typeof 1 === 'number')
 console.assert(typeof 'Cylix Lee' === 'string')
 console.assert(typeof true === 'boolean')
-console.assert(typeof null === 'object')
+console.assert(typeof null === 'object') // This is a bug in JavaScript that would never be fixed.
 console.assert(typeof undefined === 'undefined')
 console.assert(typeof 1234567890123456789012345678901234567890n === 'bigint')
 console.assert(typeof Symbol('Cylix Lee') === 'symbol')
