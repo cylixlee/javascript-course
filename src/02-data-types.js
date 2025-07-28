@@ -1,5 +1,5 @@
 // Values are either of primitive type or object type.
-// 1. Primitives (7):
+// Primitives (7):
 //    - number
 //    - string
 //    - boolean
